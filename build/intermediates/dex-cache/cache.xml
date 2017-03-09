@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_7b7f150c21104e01f4004cb8cfb3eab250dec536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_e5a977ffcf772d812f578f030270675d6112eabe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb7b49538d3337e954843358fff47140f94ee79b">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_835f101eb1d0060b3c003290db6d06a42c14948e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="58d67ce6a259d726d1eebc453f1dbe8e135e8866">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\instant-run_074eb23f492f45d6f408c6c03e85e185d43ee34b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_40d55857d27463064fbdaf003a28add6e7f40396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_29617ff18b3cd6dda2a73c9b8f3bfa4619a609b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_23073ba71080957897b4a13c8b2b1d7d78bd618e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_b13af6b906966eee0efc348f05a2d4e10cb15981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_2cb1d3ec532869dc9f4a99081a663ced1ad6832c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_f484e5ec03835ea23a1d4a4afb2bd3d40743ab0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_ccbeab42545b8d4d0fe391df3ee1e3ccf12f6323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_f4dd523e87c7eea89576242faa152a85d4bdf022.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_5cf0477d9b85054a964f43a36a9b363567a7277a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_f2cbcfa45dba4d8a7f1e975b2b267737f1681d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_06f94fd96ef657a7db3e60a160025af8003e6a8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_0685955532ed8751735b66852646c27aee2188e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_90f6e4b33579414cc01fa30a41cccabb07c810bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_1966e106d5825bf89dfc266b255963fe8e13d18a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\Users\Christos\AndroidStudioProjects\ChaniaCityWalk.2\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-beta4_d17e39754570b688e05e330629d23f8ce16f3ded.jar" />
+    </item>
+
+</items>

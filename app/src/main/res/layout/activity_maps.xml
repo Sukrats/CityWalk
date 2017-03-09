@@ -1,0 +1,66 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="tuc.christos.chaniacitywalk2.MapsActivity" />
+
+    <Button
+        android:layout_marginLeft="50dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@android:color/transparent"
+        android:onClick="showRel"/>
+
+    <RelativeLayout
+        android:id="@+id/button_pad"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"
+        android:background="@android:color/transparent">
+
+
+        <Button
+            android:id="@+id/middlebtn"
+            android:background="@drawable/roundbtn"
+            android:layout_width="100dp"
+            android:layout_height="80dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="8dp"
+            android:visibility="visible"
+            android:onClick="onMiddleBtnClick"/>
+        <Button
+            android:id="@+id/leftbtn"
+            android:background="@drawable/roundbtn"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@id/middlebtn"
+            android:layout_marginRight="24dp"
+            android:visibility="visible"
+            android:layout_marginBottom="8dp"
+            android:onClick="onLeftBtnClick" />
+        <Button
+            android:id="@+id/rightbtn"
+            android:background="@drawable/roundbtn"
+            android:layout_width="80dp"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@id/middlebtn"
+            android:layout_marginLeft="24dp"
+            android:visibility="visible"
+            android:layout_marginBottom="8dp"
+            android:onClick="onRightBtnClick"/>
+
+    </RelativeLayout>
+
+
+</FrameLayout>

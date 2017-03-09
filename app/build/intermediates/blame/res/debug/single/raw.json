@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Christos\\AndroidStudioProjects\\ChaniaCityWalk.2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\normal_map_json",
+        "source": "C:\\Users\\Christos\\AndroidStudioProjects\\ChaniaCityWalk.2\\app\\src\\main\\res\\raw\\normal_map_json"
+    },
+    {
+        "merged": "C:\\Users\\Christos\\AndroidStudioProjects\\ChaniaCityWalk.2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\retro_map_json.json",
+        "source": "C:\\Users\\Christos\\AndroidStudioProjects\\ChaniaCityWalk.2\\app\\src\\main\\res\\raw\\retro_map_json.json"
+    },
+    {
+        "merged": "C:\\Users\\Christos\\AndroidStudioProjects\\ChaniaCityWalk.2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dark_map_json.json",
+        "source": "C:\\Users\\Christos\\AndroidStudioProjects\\ChaniaCityWalk.2\\app\\src\\main\\res\\raw\\dark_map_json.json"
+    },
+    {
+        "merged": "C:\\Users\\Christos\\AndroidStudioProjects\\ChaniaCityWalk.2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\retro_map_json_simple.json",
+        "source": "C:\\Users\\Christos\\AndroidStudioProjects\\ChaniaCityWalk.2\\app\\src\\main\\res\\raw\\retro_map_json_simple.json"
+    }
+]
